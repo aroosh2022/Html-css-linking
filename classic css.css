@@ -1,0 +1,16 @@
+body,html{
+	background: skyblue;
+}
+h1{
+	font-family: cursive;
+	font-style: italic;
+}
+h2{
+	font-family: cursive;
+	font-style: italic;
+	color: ghostwhite;
+}
+.mainb{
+	background: greenyellow;
+	border: 2px dashed black;
+}
